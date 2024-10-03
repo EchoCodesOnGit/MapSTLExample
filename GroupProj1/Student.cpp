@@ -1,3 +1,6 @@
+/*
+* Group Members: Ethan Smith, Emily Monroe
+*/
 #include "Student.h"
 #include <iostream>
 using namespace std;
