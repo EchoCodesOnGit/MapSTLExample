@@ -45,7 +45,7 @@ int main()
 	}
 
 	int temp = 0;
-	for(map<Student,Teacher>::iterator it = studentTeacherMap.begin(); it != studentTeacherMap.end();++it) //the container iterators is your best friend
+	for(map<Student,Teacher>::iterator it = studentTeacherMap.begin(); it != studentTeacherMap.end();++it) //the container iterators are your best friend
 	{
 		cout << "\n-----------\n";
 		cout << "Student #" << temp+1 << '\n'
