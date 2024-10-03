@@ -1,3 +1,6 @@
+/*
+* Group Members: Ethan Smith, Emily Monroe
+*/
 #ifndef STUDENT_H
 #define STUDENT_H
 #include <iostream>
